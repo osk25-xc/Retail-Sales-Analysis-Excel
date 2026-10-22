@@ -1,0 +1,501 @@
+Order ID,Order Date,Region,Category,Product,Quantity,Unit Price,Sales,Cost,Profit
+RT-0001,2025-06-06,North,Home & Kitchen,Water Bottle,4,427.5,1710.0,960,750.0
+RT-0002,2025-10-17,North,Office Supplies,Notebook Pack,5,237.5,1187.5,650,537.5
+RT-0003,2025-04-11,Central,Electronics,Monitor,11,8550.0,94050.0,83600,10450.0
+RT-0004,2025-07-03,West,Office Supplies,Pen Set,9,162.0,1458.0,720,738.0
+RT-0005,2025-10-26,West,Electronics,Wireless Mouse,10,650.0,6500.0,3800,2700.0
+RT-0006,2025-03-24,West,Office Supplies,Pen Set,11,162.0,1782.0,880,902.0
+RT-0007,2025-10-16,Central,Electronics,Wireless Mouse,7,650.0,4550.0,2660,1890.0
+RT-0008,2025-03-30,Central,Furniture,Office Chair,9,6200.0,55800.0,40500,15300.0
+RT-0009,2025-08-17,West,Furniture,Lamp,9,1045.0,9405.0,5580,3825.0
+RT-0010,2025-09-11,South,Home & Kitchen,Lunch Box,1,600.0,600.0,330,270.0
+RT-0011,2025-11-18,North,Electronics,USB Hub,7,855.0,5985.0,3640,2345.0
+RT-0012,2025-11-13,East,Home & Kitchen,Storage Box,7,630.0,4410.0,2870,1540.0
+RT-0013,2025-02-17,South,Electronics,Keyboard,2,1200.0,2400.0,1440,960.0
+RT-0014,2025-07-11,South,Furniture,Desk,3,8500.0,25500.0,19500,6000.0
+RT-0015,2025-07-05,West,Home & Kitchen,Mug Set,5,522.5,2612.5,1500,1112.5
+RT-0016,2025-08-05,West,Home & Kitchen,Lunch Box,11,570.0,6270.0,3630,2640.0
+RT-0017,2025-05-15,East,Office Supplies,Folders,2,142.5,285.0,130,155.0
+RT-0018,2025-04-28,North,Electronics,Monitor,10,8550.0,85500.0,76000,9500.0
+RT-0019,2025-09-21,East,Furniture,Filing Cabinet,5,5800.0,29000.0,21000,8000.0
+RT-0020,2025-03-25,East,Electronics,Wireless Mouse,9,650.0,5850.0,3420,2430.0
+RT-0021,2025-02-10,West,Furniture,Filing Cabinet,6,5800.0,34800.0,25200,9600.0
+RT-0022,2025-03-06,North,Furniture,Filing Cabinet,6,5800.0,34800.0,25200,9600.0
+RT-0023,2025-10-10,North,Electronics,Monitor,4,9500.0,38000.0,30400,7600.0
+RT-0024,2025-06-17,Central,Electronics,Monitor,1,9500.0,9500.0,7600,1900.0
+RT-0025,2025-02-17,East,Furniture,Bookshelf,2,4200.0,8400.0,5800,2600.0
+RT-0026,2025-05-29,East,Electronics,USB Hub,10,900.0,9000.0,5200,3800.0
+RT-0027,2025-03-22,West,Office Supplies,Printer Paper,1,320.0,320.0,210,110.0
+RT-0028,2025-01-02,North,Electronics,Monitor,5,9500.0,47500.0,38000,9500.0
+RT-0029,2025-01-30,West,Furniture,Bookshelf,8,4200.0,33600.0,23200,10400.0
+RT-0030,2025-01-26,West,Home & Kitchen,Mug Set,9,550.0,4950.0,2700,2250.0
+RT-0031,2025-07-04,North,Office Supplies,Printer Paper,3,304.0,912.0,630,282.0
+RT-0032,2025-02-19,Central,Furniture,Office Chair,11,6200.0,68200.0,49500,18700.0
+RT-0033,2025-03-08,North,Home & Kitchen,Kitchen Scale,1,1300.0,1300.0,820,480.0
+RT-0034,2025-01-24,East,Office Supplies,Printer Paper,9,320.0,2880.0,1890,990.0
+RT-0035,2025-11-02,North,Electronics,Wireless Mouse,9,650.0,5850.0,3420,2430.0
+RT-0036,2025-02-13,North,Home & Kitchen,Water Bottle,2,450.0,900.0,480,420.0
+RT-0037,2025-11-16,South,Home & Kitchen,Storage Box,7,700.0,4900.0,2870,2030.0
+RT-0038,2025-03-01,North,Home & Kitchen,Mug Set,9,550.0,4950.0,2700,2250.0
+RT-0039,2025-10-03,South,Office Supplies,Folders,9,150.0,1350.0,585,765.0
+RT-0040,2025-02-20,North,Electronics,Monitor,7,9025.0,63175.0,53200,9975.0
+RT-0041,2025-03-09,South,Furniture,Lamp,3,990.0,2970.0,1860,1110.0
+RT-0042,2025-12-21,North,Office Supplies,Stapler,7,220.0,1540.0,840,700.0
+RT-0043,2025-06-09,East,Home & Kitchen,Lunch Box,3,600.0,1800.0,990,810.0
+RT-0044,2025-01-20,West,Furniture,Desk,7,8500.0,59500.0,45500,14000.0
+RT-0045,2025-05-20,Central,Furniture,Desk,6,8075.0,48450.0,39000,9450.0
+RT-0046,2025-04-16,West,Home & Kitchen,Mug Set,1,550.0,550.0,300,250.0
+RT-0047,2025-12-18,North,Electronics,Monitor,1,9500.0,9500.0,7600,1900.0
+RT-0048,2025-03-16,East,Home & Kitchen,Mug Set,10,550.0,5500.0,3000,2500.0
+RT-0049,2025-06-10,North,Home & Kitchen,Lunch Box,5,600.0,3000.0,1650,1350.0
+RT-0050,2025-05-08,Central,Home & Kitchen,Lunch Box,8,600.0,4800.0,2640,2160.0
+RT-0051,2025-08-06,North,Office Supplies,Stapler,1,220.0,220.0,120,100.0
+RT-0052,2025-01-28,North,Office Supplies,Pen Set,2,180.0,360.0,160,200.0
+RT-0053,2025-10-31,North,Electronics,USB Hub,1,900.0,900.0,520,380.0
+RT-0054,2025-07-24,Central,Office Supplies,Notebook Pack,9,237.5,2137.5,1170,967.5
+RT-0055,2025-11-01,South,Home & Kitchen,Kitchen Scale,3,1170.0,3510.0,2460,1050.0
+RT-0056,2025-07-12,North,Electronics,Headphones,1,1710.0,1710.0,1150,560.0
+RT-0057,2025-08-31,East,Office Supplies,Pen Set,2,180.0,360.0,160,200.0
+RT-0058,2025-10-16,West,Electronics,Wireless Mouse,5,585.0,2925.0,1900,1025.0
+RT-0059,2025-10-28,North,Office Supplies,Printer Paper,7,288.0,2016.0,1470,546.0
+RT-0060,2025-03-28,Central,Electronics,Monitor,2,9500.0,19000.0,15200,3800.0
+RT-0061,2025-01-18,East,Office Supplies,Folders,12,150.0,1800.0,780,1020.0
+RT-0062,2025-09-29,East,Furniture,Bookshelf,10,4200.0,42000.0,29000,13000.0
+RT-0063,2025-12-05,Central,Home & Kitchen,Lunch Box,2,570.0,1140.0,660,480.0
+RT-0064,2025-01-13,West,Furniture,Bookshelf,12,4200.0,50400.0,34800,15600.0
+RT-0065,2025-05-26,West,Electronics,Keyboard,6,1200.0,7200.0,4320,2880.0
+RT-0066,2025-01-12,Central,Office Supplies,Folders,6,150.0,900.0,390,510.0
+RT-0067,2025-08-09,Central,Electronics,Wireless Mouse,10,617.5,6175.0,3800,2375.0
+RT-0068,2025-01-15,South,Furniture,Filing Cabinet,3,5220.0,15660.0,12600,3060.0
+RT-0069,2025-11-19,West,Electronics,Monitor,9,8550.0,76950.0,68400,8550.0
+RT-0070,2025-05-28,South,Office Supplies,Printer Paper,4,320.0,1280.0,840,440.0
+RT-0071,2025-10-02,West,Electronics,USB Hub,7,855.0,5985.0,3640,2345.0
+RT-0072,2025-08-06,East,Electronics,Headphones,8,1620.0,12960.0,9200,3760.0
+RT-0073,2025-05-27,South,Home & Kitchen,Mug Set,12,550.0,6600.0,3600,3000.0
+RT-0074,2025-03-29,North,Home & Kitchen,Water Bottle,6,450.0,2700.0,1440,1260.0
+RT-0075,2025-11-08,North,Home & Kitchen,Storage Box,6,700.0,4200.0,2460,1740.0
+RT-0076,2025-11-13,East,Electronics,Wireless Mouse,2,617.5,1235.0,760,475.0
+RT-0077,2025-09-05,Central,Electronics,USB Hub,2,900.0,1800.0,1040,760.0
+RT-0078,2025-06-25,South,Office Supplies,Printer Paper,3,320.0,960.0,630,330.0
+RT-0079,2025-04-30,East,Furniture,Desk,9,8075.0,72675.0,58500,14175.0
+RT-0080,2025-10-23,East,Furniture,Desk,11,8500.0,93500.0,71500,22000.0
+RT-0081,2025-08-10,West,Electronics,Headphones,7,1710.0,11970.0,8050,3920.0
+RT-0082,2025-08-20,South,Electronics,Headphones,5,1800.0,9000.0,5750,3250.0
+RT-0083,2025-05-05,West,Electronics,Wireless Mouse,12,650.0,7800.0,4560,3240.0
+RT-0084,2025-02-22,West,Electronics,Keyboard,12,1140.0,13680.0,8640,5040.0
+RT-0085,2025-09-18,South,Electronics,Headphones,9,1710.0,15390.0,10350,5040.0
+RT-0086,2025-04-29,East,Furniture,Office Chair,4,6200.0,24800.0,18000,6800.0
+RT-0087,2025-11-26,North,Furniture,Office Chair,4,6200.0,24800.0,18000,6800.0
+RT-0088,2025-10-16,South,Home & Kitchen,Storage Box,2,630.0,1260.0,820,440.0
+RT-0089,2025-10-13,North,Office Supplies,Folders,6,135.0,810.0,390,420.0
+RT-0090,2025-08-23,South,Home & Kitchen,Storage Box,8,665.0,5320.0,3280,2040.0
+RT-0091,2025-06-18,North,Furniture,Filing Cabinet,4,5800.0,23200.0,16800,6400.0
+RT-0092,2025-04-04,East,Home & Kitchen,Water Bottle,4,427.5,1710.0,960,750.0
+RT-0093,2025-09-27,Central,Furniture,Desk,3,8500.0,25500.0,19500,6000.0
+RT-0094,2025-01-17,North,Office Supplies,Stapler,10,220.0,2200.0,1200,1000.0
+RT-0095,2025-04-05,North,Electronics,Headphones,10,1620.0,16200.0,11500,4700.0
+RT-0096,2025-01-31,Central,Electronics,Keyboard,2,1200.0,2400.0,1440,960.0
+RT-0097,2025-06-01,North,Furniture,Bookshelf,11,4200.0,46200.0,31900,14300.0
+RT-0098,2025-05-04,East,Office Supplies,Notebook Pack,10,225.0,2250.0,1300,950.0
+RT-0099,2025-07-09,South,Home & Kitchen,Storage Box,6,630.0,3780.0,2460,1320.0
+RT-0100,2025-10-30,East,Office Supplies,Stapler,10,220.0,2200.0,1200,1000.0
+RT-0101,2025-11-18,West,Furniture,Desk,6,8500.0,51000.0,39000,12000.0
+RT-0102,2025-12-20,West,Furniture,Filing Cabinet,12,5800.0,69600.0,50400,19200.0
+RT-0103,2025-07-12,North,Home & Kitchen,Lunch Box,5,600.0,3000.0,1650,1350.0
+RT-0104,2025-11-07,East,Electronics,Keyboard,10,1200.0,12000.0,7200,4800.0
+RT-0105,2025-04-04,North,Office Supplies,Pen Set,12,162.0,1944.0,960,984.0
+RT-0106,2025-08-04,West,Electronics,Wireless Mouse,4,617.5,2470.0,1520,950.0
+RT-0107,2025-02-10,North,Office Supplies,Printer Paper,6,320.0,1920.0,1260,660.0
+RT-0108,2025-01-14,East,Office Supplies,Printer Paper,3,288.0,864.0,630,234.0
+RT-0109,2025-05-24,East,Electronics,Monitor,9,9500.0,85500.0,68400,17100.0
+RT-0110,2025-02-20,North,Furniture,Filing Cabinet,5,5800.0,29000.0,21000,8000.0
+RT-0111,2025-12-12,Central,Office Supplies,Pen Set,8,162.0,1296.0,640,656.0
+RT-0112,2025-06-19,West,Office Supplies,Notebook Pack,1,237.5,237.5,130,107.5
+RT-0113,2025-03-25,West,Electronics,USB Hub,1,900.0,900.0,520,380.0
+RT-0114,2025-06-23,South,Home & Kitchen,Mug Set,2,495.0,990.0,600,390.0
+RT-0115,2025-07-26,Central,Furniture,Bookshelf,11,4200.0,46200.0,31900,14300.0
+RT-0116,2025-02-14,South,Office Supplies,Printer Paper,11,320.0,3520.0,2310,1210.0
+RT-0117,2025-03-09,South,Office Supplies,Stapler,11,220.0,2420.0,1320,1100.0
+RT-0118,2025-09-17,East,Home & Kitchen,Storage Box,6,665.0,3990.0,2460,1530.0
+RT-0119,2025-07-12,East,Electronics,Headphones,3,1710.0,5130.0,3450,1680.0
+RT-0120,2025-09-28,Central,Electronics,Wireless Mouse,12,650.0,7800.0,4560,3240.0
+RT-0121,2025-12-14,Central,Furniture,Office Chair,10,5580.0,55800.0,45000,10800.0
+RT-0122,2025-12-25,Central,Home & Kitchen,Mug Set,5,550.0,2750.0,1500,1250.0
+RT-0123,2025-03-22,Central,Office Supplies,Folders,8,150.0,1200.0,520,680.0
+RT-0124,2025-10-29,Central,Home & Kitchen,Storage Box,12,630.0,7560.0,4920,2640.0
+RT-0125,2025-03-19,Central,Furniture,Lamp,11,990.0,10890.0,6820,4070.0
+RT-0126,2025-06-14,West,Home & Kitchen,Kitchen Scale,7,1170.0,8190.0,5740,2450.0
+RT-0127,2025-07-31,West,Furniture,Bookshelf,3,4200.0,12600.0,8700,3900.0
+RT-0128,2025-11-10,South,Electronics,Monitor,5,9025.0,45125.0,38000,7125.0
+RT-0129,2025-10-02,East,Furniture,Bookshelf,11,3990.0,43890.0,31900,11990.0
+RT-0130,2025-02-07,South,Home & Kitchen,Storage Box,1,630.0,630.0,410,220.0
+RT-0131,2025-10-30,South,Home & Kitchen,Water Bottle,7,450.0,3150.0,1680,1470.0
+RT-0132,2025-06-23,East,Furniture,Desk,6,8500.0,51000.0,39000,12000.0
+RT-0133,2025-08-14,East,Furniture,Desk,5,8500.0,42500.0,32500,10000.0
+RT-0134,2025-06-15,Central,Office Supplies,Stapler,5,198.0,990.0,600,390.0
+RT-0135,2025-12-23,West,Electronics,Monitor,3,9500.0,28500.0,22800,5700.0
+RT-0136,2025-12-27,West,Office Supplies,Printer Paper,7,320.0,2240.0,1470,770.0
+RT-0137,2025-07-13,East,Office Supplies,Stapler,5,209.0,1045.0,600,445.0
+RT-0138,2025-06-27,South,Furniture,Desk,8,8500.0,68000.0,52000,16000.0
+RT-0139,2025-04-28,Central,Furniture,Bookshelf,10,4200.0,42000.0,29000,13000.0
+RT-0140,2025-01-29,West,Furniture,Filing Cabinet,5,5800.0,29000.0,21000,8000.0
+RT-0141,2025-12-17,Central,Home & Kitchen,Mug Set,1,522.5,522.5,300,222.5
+RT-0142,2025-03-16,South,Home & Kitchen,Water Bottle,5,450.0,2250.0,1200,1050.0
+RT-0143,2025-02-18,West,Office Supplies,Pen Set,4,162.0,648.0,320,328.0
+RT-0144,2025-08-25,South,Furniture,Desk,6,8500.0,51000.0,39000,12000.0
+RT-0145,2025-06-18,West,Furniture,Lamp,11,1100.0,12100.0,6820,5280.0
+RT-0146,2025-10-23,North,Home & Kitchen,Mug Set,3,495.0,1485.0,900,585.0
+RT-0147,2025-12-22,North,Office Supplies,Folders,11,150.0,1650.0,715,935.0
+RT-0148,2025-05-19,South,Office Supplies,Pen Set,12,180.0,2160.0,960,1200.0
+RT-0149,2025-02-08,South,Home & Kitchen,Lunch Box,2,540.0,1080.0,660,420.0
+RT-0150,2025-03-18,South,Furniture,Desk,1,8500.0,8500.0,6500,2000.0
+RT-0151,2025-12-31,Central,Home & Kitchen,Water Bottle,6,405.0,2430.0,1440,990.0
+RT-0152,2025-08-24,South,Furniture,Filing Cabinet,2,5220.0,10440.0,8400,2040.0
+RT-0153,2025-06-18,West,Home & Kitchen,Water Bottle,2,450.0,900.0,480,420.0
+RT-0154,2025-12-10,South,Home & Kitchen,Kitchen Scale,10,1300.0,13000.0,8200,4800.0
+RT-0155,2025-01-22,West,Electronics,Wireless Mouse,3,650.0,1950.0,1140,810.0
+RT-0156,2025-12-12,South,Electronics,Wireless Mouse,6,585.0,3510.0,2280,1230.0
+RT-0157,2025-12-29,North,Office Supplies,Notebook Pack,4,250.0,1000.0,520,480.0
+RT-0158,2025-06-25,East,Electronics,Monitor,10,9500.0,95000.0,76000,19000.0
+RT-0159,2025-04-16,South,Furniture,Lamp,12,1100.0,13200.0,7440,5760.0
+RT-0160,2025-08-03,North,Office Supplies,Folders,5,150.0,750.0,325,425.0
+RT-0161,2025-10-05,South,Home & Kitchen,Water Bottle,2,405.0,810.0,480,330.0
+RT-0162,2025-03-01,West,Furniture,Bookshelf,8,3780.0,30240.0,23200,7040.0
+RT-0163,2025-02-05,North,Furniture,Filing Cabinet,5,5220.0,26100.0,21000,5100.0
+RT-0164,2025-02-23,Central,Furniture,Office Chair,6,6200.0,37200.0,27000,10200.0
+RT-0165,2025-09-01,East,Office Supplies,Stapler,3,220.0,660.0,360,300.0
+RT-0166,2025-08-27,North,Office Supplies,Notebook Pack,11,237.5,2612.5,1430,1182.5
+RT-0167,2025-03-24,Central,Home & Kitchen,Lunch Box,6,600.0,3600.0,1980,1620.0
+RT-0168,2025-01-15,Central,Office Supplies,Stapler,4,220.0,880.0,480,400.0
+RT-0169,2025-07-25,North,Home & Kitchen,Storage Box,8,630.0,5040.0,3280,1760.0
+RT-0170,2025-08-31,Central,Furniture,Desk,7,8075.0,56525.0,45500,11025.0
+RT-0171,2025-01-05,West,Furniture,Lamp,10,1045.0,10450.0,6200,4250.0
+RT-0172,2025-11-02,Central,Office Supplies,Pen Set,6,180.0,1080.0,480,600.0
+RT-0173,2025-04-24,South,Electronics,Monitor,4,9500.0,38000.0,30400,7600.0
+RT-0174,2025-05-02,South,Electronics,Headphones,10,1800.0,18000.0,11500,6500.0
+RT-0175,2025-08-14,North,Home & Kitchen,Storage Box,7,700.0,4900.0,2870,2030.0
+RT-0176,2025-08-02,South,Home & Kitchen,Lunch Box,4,600.0,2400.0,1320,1080.0
+RT-0177,2025-10-18,South,Office Supplies,Printer Paper,11,320.0,3520.0,2310,1210.0
+RT-0178,2025-05-09,South,Home & Kitchen,Lunch Box,6,600.0,3600.0,1980,1620.0
+RT-0179,2025-01-21,South,Furniture,Office Chair,5,5890.0,29450.0,22500,6950.0
+RT-0180,2025-01-26,South,Furniture,Bookshelf,3,4200.0,12600.0,8700,3900.0
+RT-0181,2025-08-31,North,Electronics,Wireless Mouse,5,617.5,3087.5,1900,1187.5
+RT-0182,2025-12-14,South,Electronics,Keyboard,12,1200.0,14400.0,8640,5760.0
+RT-0183,2025-07-19,East,Home & Kitchen,Water Bottle,8,427.5,3420.0,1920,1500.0
+RT-0184,2025-02-04,East,Office Supplies,Folders,1,135.0,135.0,65,70.0
+RT-0185,2025-07-18,North,Furniture,Lamp,9,990.0,8910.0,5580,3330.0
+RT-0186,2025-05-07,North,Home & Kitchen,Storage Box,12,630.0,7560.0,4920,2640.0
+RT-0187,2025-02-26,East,Home & Kitchen,Water Bottle,6,427.5,2565.0,1440,1125.0
+RT-0188,2025-02-22,Central,Office Supplies,Notebook Pack,2,225.0,450.0,260,190.0
+RT-0189,2025-03-21,West,Furniture,Desk,10,8075.0,80750.0,65000,15750.0
+RT-0190,2025-02-13,North,Home & Kitchen,Lunch Box,2,600.0,1200.0,660,540.0
+RT-0191,2025-09-03,North,Furniture,Lamp,4,1045.0,4180.0,2480,1700.0
+RT-0192,2025-12-30,South,Home & Kitchen,Storage Box,9,665.0,5985.0,3690,2295.0
+RT-0193,2025-08-25,North,Home & Kitchen,Storage Box,2,665.0,1330.0,820,510.0
+RT-0194,2025-07-20,West,Office Supplies,Printer Paper,8,288.0,2304.0,1680,624.0
+RT-0195,2025-01-25,North,Home & Kitchen,Water Bottle,9,405.0,3645.0,2160,1485.0
+RT-0196,2025-04-07,East,Electronics,Monitor,3,9500.0,28500.0,22800,5700.0
+RT-0197,2025-01-21,South,Office Supplies,Folders,6,150.0,900.0,390,510.0
+RT-0198,2025-07-15,West,Office Supplies,Folders,7,135.0,945.0,455,490.0
+RT-0199,2025-01-04,North,Furniture,Filing Cabinet,2,5800.0,11600.0,8400,3200.0
+RT-0200,2025-09-12,North,Home & Kitchen,Water Bottle,3,450.0,1350.0,720,630.0
+RT-0201,2025-02-25,East,Electronics,Monitor,7,8550.0,59850.0,53200,6650.0
+RT-0202,2025-11-10,West,Electronics,Wireless Mouse,12,585.0,7020.0,4560,2460.0
+RT-0203,2025-01-26,Central,Office Supplies,Folders,1,142.5,142.5,65,77.5
+RT-0204,2025-07-17,East,Electronics,Wireless Mouse,12,617.5,7410.0,4560,2850.0
+RT-0205,2025-12-27,North,Furniture,Lamp,7,1100.0,7700.0,4340,3360.0
+RT-0206,2025-11-03,West,Office Supplies,Folders,6,150.0,900.0,390,510.0
+RT-0207,2025-07-05,South,Electronics,Wireless Mouse,6,650.0,3900.0,2280,1620.0
+RT-0208,2025-06-01,North,Office Supplies,Folders,8,150.0,1200.0,520,680.0
+RT-0209,2025-04-23,East,Furniture,Bookshelf,2,4200.0,8400.0,5800,2600.0
+RT-0210,2025-09-03,East,Office Supplies,Printer Paper,4,304.0,1216.0,840,376.0
+RT-0211,2025-07-10,West,Office Supplies,Printer Paper,6,320.0,1920.0,1260,660.0
+RT-0212,2025-06-20,North,Office Supplies,Notebook Pack,5,250.0,1250.0,650,600.0
+RT-0213,2025-10-27,North,Office Supplies,Pen Set,7,171.0,1197.0,560,637.0
+RT-0214,2025-04-16,Central,Furniture,Office Chair,5,6200.0,31000.0,22500,8500.0
+RT-0215,2025-10-24,Central,Office Supplies,Stapler,9,220.0,1980.0,1080,900.0
+RT-0216,2025-09-04,South,Electronics,Keyboard,12,1200.0,14400.0,8640,5760.0
+RT-0217,2025-05-20,North,Office Supplies,Notebook Pack,11,225.0,2475.0,1430,1045.0
+RT-0218,2025-09-22,Central,Home & Kitchen,Lunch Box,10,600.0,6000.0,3300,2700.0
+RT-0219,2025-03-21,East,Electronics,Monitor,6,9500.0,57000.0,45600,11400.0
+RT-0220,2025-10-20,North,Office Supplies,Notebook Pack,9,250.0,2250.0,1170,1080.0
+RT-0221,2025-01-07,West,Furniture,Office Chair,7,6200.0,43400.0,31500,11900.0
+RT-0222,2025-07-01,East,Electronics,Keyboard,10,1140.0,11400.0,7200,4200.0
+RT-0223,2025-05-18,East,Home & Kitchen,Lunch Box,1,540.0,540.0,330,210.0
+RT-0224,2025-06-22,North,Furniture,Desk,10,7650.0,76500.0,65000,11500.0
+RT-0225,2025-08-01,South,Electronics,Keyboard,7,1200.0,8400.0,5040,3360.0
+RT-0226,2025-10-10,South,Electronics,Monitor,3,9025.0,27075.0,22800,4275.0
+RT-0227,2025-09-29,South,Office Supplies,Printer Paper,11,320.0,3520.0,2310,1210.0
+RT-0228,2025-12-19,West,Furniture,Lamp,8,1045.0,8360.0,4960,3400.0
+RT-0229,2025-08-14,West,Furniture,Bookshelf,5,3780.0,18900.0,14500,4400.0
+RT-0230,2025-05-11,North,Furniture,Lamp,10,990.0,9900.0,6200,3700.0
+RT-0231,2025-04-29,East,Office Supplies,Pen Set,6,171.0,1026.0,480,546.0
+RT-0232,2025-02-08,West,Home & Kitchen,Water Bottle,6,450.0,2700.0,1440,1260.0
+RT-0233,2025-11-26,South,Furniture,Desk,1,8075.0,8075.0,6500,1575.0
+RT-0234,2025-05-31,Central,Furniture,Office Chair,5,5890.0,29450.0,22500,6950.0
+RT-0235,2025-09-06,East,Furniture,Office Chair,5,6200.0,31000.0,22500,8500.0
+RT-0236,2025-08-12,North,Office Supplies,Notebook Pack,7,225.0,1575.0,910,665.0
+RT-0237,2025-12-04,East,Electronics,Monitor,3,9025.0,27075.0,22800,4275.0
+RT-0238,2025-09-19,East,Office Supplies,Printer Paper,6,320.0,1920.0,1260,660.0
+RT-0239,2025-05-06,South,Office Supplies,Pen Set,6,180.0,1080.0,480,600.0
+RT-0240,2025-10-27,Central,Office Supplies,Notebook Pack,1,250.0,250.0,130,120.0
+RT-0241,2025-03-02,South,Office Supplies,Notebook Pack,3,225.0,675.0,390,285.0
+RT-0242,2025-03-26,South,Electronics,USB Hub,6,900.0,5400.0,3120,2280.0
+RT-0243,2025-02-27,West,Office Supplies,Stapler,5,220.0,1100.0,600,500.0
+RT-0244,2025-08-13,West,Home & Kitchen,Lunch Box,3,570.0,1710.0,990,720.0
+RT-0245,2025-03-12,East,Office Supplies,Pen Set,8,171.0,1368.0,640,728.0
+RT-0246,2025-01-08,East,Furniture,Bookshelf,8,4200.0,33600.0,23200,10400.0
+RT-0247,2025-09-25,North,Office Supplies,Folders,1,150.0,150.0,65,85.0
+RT-0248,2025-02-13,North,Furniture,Office Chair,7,5580.0,39060.0,31500,7560.0
+RT-0249,2025-08-31,North,Office Supplies,Printer Paper,12,320.0,3840.0,2520,1320.0
+RT-0250,2025-11-15,West,Home & Kitchen,Kitchen Scale,2,1170.0,2340.0,1640,700.0
+RT-0251,2025-07-24,Central,Electronics,Keyboard,11,1080.0,11880.0,7920,3960.0
+RT-0252,2025-07-13,East,Home & Kitchen,Storage Box,11,700.0,7700.0,4510,3190.0
+RT-0253,2025-09-27,South,Home & Kitchen,Lunch Box,5,600.0,3000.0,1650,1350.0
+RT-0254,2025-05-15,South,Office Supplies,Pen Set,10,171.0,1710.0,800,910.0
+RT-0255,2025-05-29,South,Home & Kitchen,Water Bottle,4,427.5,1710.0,960,750.0
+RT-0256,2025-01-07,East,Furniture,Lamp,5,1100.0,5500.0,3100,2400.0
+RT-0257,2025-01-17,East,Furniture,Bookshelf,7,4200.0,29400.0,20300,9100.0
+RT-0258,2025-07-12,Central,Home & Kitchen,Storage Box,11,665.0,7315.0,4510,2805.0
+RT-0259,2025-09-21,South,Home & Kitchen,Mug Set,4,550.0,2200.0,1200,1000.0
+RT-0260,2025-11-23,East,Office Supplies,Notebook Pack,5,225.0,1125.0,650,475.0
+RT-0261,2025-07-31,South,Office Supplies,Stapler,5,198.0,990.0,600,390.0
+RT-0262,2025-04-21,North,Electronics,Monitor,5,9025.0,45125.0,38000,7125.0
+RT-0263,2025-01-26,South,Electronics,Keyboard,11,1080.0,11880.0,7920,3960.0
+RT-0264,2025-11-20,West,Office Supplies,Stapler,5,220.0,1100.0,600,500.0
+RT-0265,2025-05-16,Central,Furniture,Lamp,11,990.0,10890.0,6820,4070.0
+RT-0266,2025-05-07,North,Electronics,Keyboard,10,1200.0,12000.0,7200,4800.0
+RT-0267,2025-07-30,East,Office Supplies,Notebook Pack,6,225.0,1350.0,780,570.0
+RT-0268,2025-11-20,West,Office Supplies,Folders,9,150.0,1350.0,585,765.0
+RT-0269,2025-04-19,East,Office Supplies,Folders,3,150.0,450.0,195,255.0
+RT-0270,2025-06-22,South,Home & Kitchen,Kitchen Scale,9,1300.0,11700.0,7380,4320.0
+RT-0271,2025-01-24,East,Home & Kitchen,Storage Box,3,700.0,2100.0,1230,870.0
+RT-0272,2025-09-01,South,Home & Kitchen,Lunch Box,2,600.0,1200.0,660,540.0
+RT-0273,2025-11-17,Central,Furniture,Lamp,11,1100.0,12100.0,6820,5280.0
+RT-0274,2025-01-04,East,Furniture,Filing Cabinet,10,5800.0,58000.0,42000,16000.0
+RT-0275,2025-09-04,North,Electronics,Monitor,3,9500.0,28500.0,22800,5700.0
+RT-0276,2025-05-29,North,Home & Kitchen,Mug Set,10,550.0,5500.0,3000,2500.0
+RT-0277,2025-07-29,North,Electronics,USB Hub,5,900.0,4500.0,2600,1900.0
+RT-0278,2025-11-13,West,Office Supplies,Folders,9,142.5,1282.5,585,697.5
+RT-0279,2025-10-13,Central,Home & Kitchen,Kitchen Scale,11,1300.0,14300.0,9020,5280.0
+RT-0280,2025-05-02,South,Office Supplies,Folders,11,150.0,1650.0,715,935.0
+RT-0281,2025-08-02,East,Furniture,Desk,12,8500.0,102000.0,78000,24000.0
+RT-0282,2025-10-17,East,Office Supplies,Pen Set,5,171.0,855.0,400,455.0
+RT-0283,2025-08-19,South,Home & Kitchen,Mug Set,6,550.0,3300.0,1800,1500.0
+RT-0284,2025-10-06,West,Electronics,USB Hub,7,900.0,6300.0,3640,2660.0
+RT-0285,2025-08-31,North,Electronics,Headphones,11,1620.0,17820.0,12650,5170.0
+RT-0286,2025-03-12,North,Furniture,Filing Cabinet,8,5800.0,46400.0,33600,12800.0
+RT-0287,2025-03-28,North,Office Supplies,Stapler,1,220.0,220.0,120,100.0
+RT-0288,2025-03-28,Central,Electronics,USB Hub,5,900.0,4500.0,2600,1900.0
+RT-0289,2025-07-18,East,Office Supplies,Printer Paper,2,320.0,640.0,420,220.0
+RT-0290,2025-04-30,South,Office Supplies,Folders,5,150.0,750.0,325,425.0
+RT-0291,2025-03-15,East,Electronics,Wireless Mouse,4,650.0,2600.0,1520,1080.0
+RT-0292,2025-09-16,South,Electronics,Keyboard,12,1200.0,14400.0,8640,5760.0
+RT-0293,2025-04-06,South,Electronics,Keyboard,2,1140.0,2280.0,1440,840.0
+RT-0294,2025-07-06,East,Office Supplies,Stapler,1,220.0,220.0,120,100.0
+RT-0295,2025-04-26,North,Electronics,Keyboard,8,1200.0,9600.0,5760,3840.0
+RT-0296,2025-01-18,West,Home & Kitchen,Mug Set,9,550.0,4950.0,2700,2250.0
+RT-0297,2025-07-09,Central,Office Supplies,Notebook Pack,4,237.5,950.0,520,430.0
+RT-0298,2025-10-28,West,Electronics,Wireless Mouse,12,650.0,7800.0,4560,3240.0
+RT-0299,2025-12-11,West,Home & Kitchen,Storage Box,8,700.0,5600.0,3280,2320.0
+RT-0300,2025-03-18,South,Furniture,Filing Cabinet,2,5510.0,11020.0,8400,2620.0
+RT-0301,2025-07-23,Central,Office Supplies,Notebook Pack,11,237.5,2612.5,1430,1182.5
+RT-0302,2025-11-26,North,Office Supplies,Stapler,3,220.0,660.0,360,300.0
+RT-0303,2025-03-24,West,Office Supplies,Pen Set,2,180.0,360.0,160,200.0
+RT-0304,2025-08-30,South,Office Supplies,Folders,1,135.0,135.0,65,70.0
+RT-0305,2025-01-01,South,Electronics,Headphones,1,1800.0,1800.0,1150,650.0
+RT-0306,2025-12-21,West,Electronics,USB Hub,2,900.0,1800.0,1040,760.0
+RT-0307,2025-07-22,South,Home & Kitchen,Mug Set,2,522.5,1045.0,600,445.0
+RT-0308,2025-03-10,South,Furniture,Filing Cabinet,12,5800.0,69600.0,50400,19200.0
+RT-0309,2025-12-23,West,Home & Kitchen,Storage Box,10,700.0,7000.0,4100,2900.0
+RT-0310,2025-08-22,Central,Office Supplies,Stapler,3,209.0,627.0,360,267.0
+RT-0311,2025-09-19,East,Electronics,USB Hub,12,855.0,10260.0,6240,4020.0
+RT-0312,2025-08-13,West,Office Supplies,Folders,10,150.0,1500.0,650,850.0
+RT-0313,2025-07-06,North,Home & Kitchen,Lunch Box,8,540.0,4320.0,2640,1680.0
+RT-0314,2025-03-16,West,Electronics,Keyboard,11,1200.0,13200.0,7920,5280.0
+RT-0315,2025-12-08,Central,Electronics,USB Hub,11,810.0,8910.0,5720,3190.0
+RT-0316,2025-07-24,East,Home & Kitchen,Water Bottle,1,450.0,450.0,240,210.0
+RT-0317,2025-01-27,South,Electronics,Wireless Mouse,5,650.0,3250.0,1900,1350.0
+RT-0318,2025-05-06,West,Electronics,USB Hub,7,900.0,6300.0,3640,2660.0
+RT-0319,2025-10-04,North,Electronics,USB Hub,8,855.0,6840.0,4160,2680.0
+RT-0320,2025-12-03,South,Electronics,Keyboard,8,1140.0,9120.0,5760,3360.0
+RT-0321,2025-08-30,South,Office Supplies,Pen Set,10,162.0,1620.0,800,820.0
+RT-0322,2025-04-29,West,Electronics,USB Hub,4,810.0,3240.0,2080,1160.0
+RT-0323,2025-03-25,West,Home & Kitchen,Lunch Box,7,570.0,3990.0,2310,1680.0
+RT-0324,2025-11-23,Central,Electronics,Keyboard,4,1140.0,4560.0,2880,1680.0
+RT-0325,2025-08-02,Central,Office Supplies,Notebook Pack,10,250.0,2500.0,1300,1200.0
+RT-0326,2025-12-31,East,Furniture,Office Chair,3,5580.0,16740.0,13500,3240.0
+RT-0327,2025-10-31,East,Furniture,Filing Cabinet,10,5800.0,58000.0,42000,16000.0
+RT-0328,2025-05-02,Central,Office Supplies,Notebook Pack,3,225.0,675.0,390,285.0
+RT-0329,2025-06-01,East,Electronics,USB Hub,2,810.0,1620.0,1040,580.0
+RT-0330,2025-11-16,West,Office Supplies,Printer Paper,8,304.0,2432.0,1680,752.0
+RT-0331,2025-10-03,South,Home & Kitchen,Water Bottle,12,427.5,5130.0,2880,2250.0
+RT-0332,2025-07-04,South,Office Supplies,Folders,4,142.5,570.0,260,310.0
+RT-0333,2025-05-21,Central,Office Supplies,Folders,3,150.0,450.0,195,255.0
+RT-0334,2025-05-20,East,Office Supplies,Pen Set,8,180.0,1440.0,640,800.0
+RT-0335,2025-06-24,East,Home & Kitchen,Kitchen Scale,6,1300.0,7800.0,4920,2880.0
+RT-0336,2025-09-13,Central,Home & Kitchen,Lunch Box,4,600.0,2400.0,1320,1080.0
+RT-0337,2025-08-15,South,Electronics,Monitor,2,9500.0,19000.0,15200,3800.0
+RT-0338,2025-08-09,East,Electronics,Keyboard,10,1200.0,12000.0,7200,4800.0
+RT-0339,2025-01-05,Central,Office Supplies,Folders,4,150.0,600.0,260,340.0
+RT-0340,2025-02-22,South,Electronics,Keyboard,10,1140.0,11400.0,7200,4200.0
+RT-0341,2025-03-12,East,Home & Kitchen,Lunch Box,1,600.0,600.0,330,270.0
+RT-0342,2025-10-08,Central,Electronics,Headphones,7,1800.0,12600.0,8050,4550.0
+RT-0343,2025-06-19,West,Electronics,Keyboard,12,1080.0,12960.0,8640,4320.0
+RT-0344,2025-04-10,Central,Home & Kitchen,Water Bottle,7,427.5,2992.5,1680,1312.5
+RT-0345,2025-03-10,North,Furniture,Lamp,10,1100.0,11000.0,6200,4800.0
+RT-0346,2025-12-12,East,Electronics,Monitor,9,9025.0,81225.0,68400,12825.0
+RT-0347,2025-10-03,East,Home & Kitchen,Lunch Box,1,600.0,600.0,330,270.0
+RT-0348,2025-11-02,East,Electronics,Wireless Mouse,7,617.5,4322.5,2660,1662.5
+RT-0349,2025-11-07,Central,Office Supplies,Stapler,8,220.0,1760.0,960,800.0
+RT-0350,2025-04-03,South,Electronics,Keyboard,8,1200.0,9600.0,5760,3840.0
+RT-0351,2025-01-10,Central,Home & Kitchen,Lunch Box,2,600.0,1200.0,660,540.0
+RT-0352,2025-10-22,South,Electronics,Keyboard,11,1200.0,13200.0,7920,5280.0
+RT-0353,2025-05-28,Central,Furniture,Lamp,2,1045.0,2090.0,1240,850.0
+RT-0354,2025-02-09,North,Home & Kitchen,Storage Box,1,700.0,700.0,410,290.0
+RT-0355,2025-10-26,East,Home & Kitchen,Kitchen Scale,4,1170.0,4680.0,3280,1400.0
+RT-0356,2025-08-04,East,Furniture,Desk,10,7650.0,76500.0,65000,11500.0
+RT-0357,2025-04-16,Central,Electronics,USB Hub,12,855.0,10260.0,6240,4020.0
+RT-0358,2025-01-25,West,Furniture,Filing Cabinet,2,5220.0,10440.0,8400,2040.0
+RT-0359,2025-02-06,Central,Furniture,Office Chair,4,6200.0,24800.0,18000,6800.0
+RT-0360,2025-11-09,North,Office Supplies,Stapler,7,220.0,1540.0,840,700.0
+RT-0361,2025-02-16,Central,Home & Kitchen,Kitchen Scale,8,1170.0,9360.0,6560,2800.0
+RT-0362,2025-09-14,East,Furniture,Lamp,12,990.0,11880.0,7440,4440.0
+RT-0363,2025-06-16,South,Electronics,Monitor,12,9025.0,108300.0,91200,17100.0
+RT-0364,2025-02-04,East,Furniture,Desk,4,7650.0,30600.0,26000,4600.0
+RT-0365,2025-02-16,Central,Electronics,Monitor,2,9500.0,19000.0,15200,3800.0
+RT-0366,2025-12-22,East,Electronics,Headphones,11,1620.0,17820.0,12650,5170.0
+RT-0367,2025-08-13,North,Electronics,Headphones,9,1800.0,16200.0,10350,5850.0
+RT-0368,2025-11-17,Central,Electronics,USB Hub,7,900.0,6300.0,3640,2660.0
+RT-0369,2025-06-05,South,Home & Kitchen,Storage Box,6,700.0,4200.0,2460,1740.0
+RT-0370,2025-01-26,South,Home & Kitchen,Water Bottle,2,427.5,855.0,480,375.0
+RT-0371,2025-04-29,Central,Furniture,Lamp,4,1100.0,4400.0,2480,1920.0
+RT-0372,2025-02-22,East,Home & Kitchen,Kitchen Scale,10,1300.0,13000.0,8200,4800.0
+RT-0373,2025-11-27,Central,Electronics,Wireless Mouse,2,617.5,1235.0,760,475.0
+RT-0374,2025-11-05,East,Furniture,Desk,9,8500.0,76500.0,58500,18000.0
+RT-0375,2025-10-29,South,Electronics,USB Hub,10,900.0,9000.0,5200,3800.0
+RT-0376,2025-06-02,Central,Electronics,Wireless Mouse,12,617.5,7410.0,4560,2850.0
+RT-0377,2025-11-22,Central,Office Supplies,Printer Paper,2,304.0,608.0,420,188.0
+RT-0378,2025-12-10,East,Home & Kitchen,Lunch Box,6,570.0,3420.0,1980,1440.0
+RT-0379,2025-06-23,Central,Office Supplies,Pen Set,10,180.0,1800.0,800,1000.0
+RT-0380,2025-03-23,North,Office Supplies,Pen Set,8,171.0,1368.0,640,728.0
+RT-0381,2025-01-13,South,Furniture,Lamp,1,1045.0,1045.0,620,425.0
+RT-0382,2025-12-06,East,Home & Kitchen,Water Bottle,1,450.0,450.0,240,210.0
+RT-0383,2025-05-22,East,Office Supplies,Pen Set,8,171.0,1368.0,640,728.0
+RT-0384,2025-03-01,West,Home & Kitchen,Kitchen Scale,5,1300.0,6500.0,4100,2400.0
+RT-0385,2025-10-17,Central,Office Supplies,Printer Paper,9,320.0,2880.0,1890,990.0
+RT-0386,2025-08-10,West,Furniture,Office Chair,5,5890.0,29450.0,22500,6950.0
+RT-0387,2025-02-25,East,Office Supplies,Notebook Pack,12,225.0,2700.0,1560,1140.0
+RT-0388,2025-05-07,North,Office Supplies,Pen Set,3,180.0,540.0,240,300.0
+RT-0389,2025-06-25,West,Furniture,Lamp,8,1045.0,8360.0,4960,3400.0
+RT-0390,2025-12-10,West,Furniture,Desk,9,7650.0,68850.0,58500,10350.0
+RT-0391,2025-12-22,South,Electronics,USB Hub,1,900.0,900.0,520,380.0
+RT-0392,2025-12-16,North,Electronics,Wireless Mouse,8,617.5,4940.0,3040,1900.0
+RT-0393,2025-05-07,East,Furniture,Lamp,5,1100.0,5500.0,3100,2400.0
+RT-0394,2025-02-14,West,Electronics,USB Hub,8,900.0,7200.0,4160,3040.0
+RT-0395,2025-02-12,West,Office Supplies,Printer Paper,7,320.0,2240.0,1470,770.0
+RT-0396,2025-04-03,East,Furniture,Bookshelf,1,3990.0,3990.0,2900,1090.0
+RT-0397,2025-10-30,South,Electronics,Wireless Mouse,2,585.0,1170.0,760,410.0
+RT-0398,2025-11-30,West,Office Supplies,Notebook Pack,12,250.0,3000.0,1560,1440.0
+RT-0399,2025-11-08,South,Office Supplies,Printer Paper,12,320.0,3840.0,2520,1320.0
+RT-0400,2025-08-08,Central,Furniture,Lamp,4,1100.0,4400.0,2480,1920.0
+RT-0401,2025-12-19,Central,Office Supplies,Folders,4,135.0,540.0,260,280.0
+RT-0402,2025-09-15,Central,Office Supplies,Pen Set,4,162.0,648.0,320,328.0
+RT-0403,2025-08-30,Central,Furniture,Office Chair,10,5580.0,55800.0,45000,10800.0
+RT-0404,2025-11-02,East,Office Supplies,Pen Set,12,180.0,2160.0,960,1200.0
+RT-0405,2025-05-25,Central,Office Supplies,Stapler,10,220.0,2200.0,1200,1000.0
+RT-0406,2025-06-30,Central,Furniture,Bookshelf,2,3990.0,7980.0,5800,2180.0
+RT-0407,2025-08-11,Central,Furniture,Filing Cabinet,8,5220.0,41760.0,33600,8160.0
+RT-0408,2025-03-16,North,Electronics,USB Hub,3,900.0,2700.0,1560,1140.0
+RT-0409,2025-03-06,Central,Home & Kitchen,Mug Set,11,522.5,5747.5,3300,2447.5
+RT-0410,2025-07-07,Central,Office Supplies,Pen Set,2,180.0,360.0,160,200.0
+RT-0411,2025-12-14,East,Electronics,Keyboard,2,1140.0,2280.0,1440,840.0
+RT-0412,2025-02-13,Central,Electronics,USB Hub,12,900.0,10800.0,6240,4560.0
+RT-0413,2025-07-22,East,Office Supplies,Folders,3,150.0,450.0,195,255.0
+RT-0414,2025-01-16,Central,Office Supplies,Notebook Pack,7,250.0,1750.0,910,840.0
+RT-0415,2025-03-08,West,Home & Kitchen,Mug Set,7,550.0,3850.0,2100,1750.0
+RT-0416,2025-08-12,West,Furniture,Office Chair,2,5890.0,11780.0,9000,2780.0
+RT-0417,2025-12-09,South,Office Supplies,Notebook Pack,10,250.0,2500.0,1300,1200.0
+RT-0418,2025-08-18,North,Electronics,Keyboard,4,1080.0,4320.0,2880,1440.0
+RT-0419,2025-06-03,Central,Furniture,Lamp,1,1100.0,1100.0,620,480.0
+RT-0420,2025-11-03,Central,Office Supplies,Pen Set,3,180.0,540.0,240,300.0
+RT-0421,2025-02-22,North,Office Supplies,Notebook Pack,8,250.0,2000.0,1040,960.0
+RT-0422,2025-05-19,East,Electronics,Wireless Mouse,12,617.5,7410.0,4560,2850.0
+RT-0423,2025-03-30,East,Electronics,Wireless Mouse,4,650.0,2600.0,1520,1080.0
+RT-0424,2025-12-10,Central,Electronics,USB Hub,9,900.0,8100.0,4680,3420.0
+RT-0425,2025-06-30,North,Home & Kitchen,Storage Box,9,665.0,5985.0,3690,2295.0
+RT-0426,2025-10-01,North,Electronics,Wireless Mouse,7,650.0,4550.0,2660,1890.0
+RT-0427,2025-05-25,North,Furniture,Filing Cabinet,10,5510.0,55100.0,42000,13100.0
+RT-0428,2025-03-18,West,Furniture,Lamp,4,1045.0,4180.0,2480,1700.0
+RT-0429,2025-05-18,North,Electronics,Wireless Mouse,1,650.0,650.0,380,270.0
+RT-0430,2025-07-29,East,Office Supplies,Pen Set,5,162.0,810.0,400,410.0
+RT-0431,2025-02-15,West,Office Supplies,Notebook Pack,8,250.0,2000.0,1040,960.0
+RT-0432,2025-07-03,Central,Home & Kitchen,Kitchen Scale,8,1235.0,9880.0,6560,3320.0
+RT-0433,2025-06-23,South,Office Supplies,Pen Set,2,180.0,360.0,160,200.0
+RT-0434,2025-12-23,North,Furniture,Desk,1,8500.0,8500.0,6500,2000.0
+RT-0435,2025-03-20,Central,Furniture,Lamp,5,1100.0,5500.0,3100,2400.0
+RT-0436,2025-03-11,North,Home & Kitchen,Kitchen Scale,9,1300.0,11700.0,7380,4320.0
+RT-0437,2025-07-23,West,Office Supplies,Folders,7,150.0,1050.0,455,595.0
+RT-0438,2025-12-12,South,Furniture,Desk,11,8500.0,93500.0,71500,22000.0
+RT-0439,2025-05-18,South,Home & Kitchen,Lunch Box,10,600.0,6000.0,3300,2700.0
+RT-0440,2025-06-11,West,Office Supplies,Printer Paper,10,288.0,2880.0,2100,780.0
+RT-0441,2025-06-14,East,Electronics,Headphones,5,1800.0,9000.0,5750,3250.0
+RT-0442,2025-03-27,Central,Home & Kitchen,Water Bottle,3,450.0,1350.0,720,630.0
+RT-0443,2025-12-16,Central,Electronics,Headphones,11,1800.0,19800.0,12650,7150.0
+RT-0444,2025-11-03,South,Office Supplies,Stapler,2,209.0,418.0,240,178.0
+RT-0445,2025-06-10,East,Electronics,Keyboard,9,1200.0,10800.0,6480,4320.0
+RT-0446,2025-01-07,East,Home & Kitchen,Water Bottle,2,427.5,855.0,480,375.0
+RT-0447,2025-06-08,North,Electronics,Headphones,6,1800.0,10800.0,6900,3900.0
+RT-0448,2025-09-12,Central,Office Supplies,Folders,10,142.5,1425.0,650,775.0
+RT-0449,2025-01-06,West,Electronics,Keyboard,11,1200.0,13200.0,7920,5280.0
+RT-0450,2025-06-05,Central,Home & Kitchen,Mug Set,12,550.0,6600.0,3600,3000.0
+RT-0451,2025-09-21,Central,Office Supplies,Folders,8,135.0,1080.0,520,560.0
+RT-0452,2025-02-22,West,Furniture,Bookshelf,6,3780.0,22680.0,17400,5280.0
+RT-0453,2025-04-17,North,Home & Kitchen,Water Bottle,1,427.5,427.5,240,187.5
+RT-0454,2025-04-04,Central,Office Supplies,Pen Set,12,171.0,2052.0,960,1092.0
+RT-0455,2025-01-01,North,Office Supplies,Pen Set,5,171.0,855.0,400,455.0
+RT-0456,2025-03-30,South,Electronics,USB Hub,8,810.0,6480.0,4160,2320.0
+RT-0457,2025-11-22,East,Furniture,Bookshelf,9,3780.0,34020.0,26100,7920.0
+RT-0458,2025-02-09,West,Electronics,Keyboard,1,1200.0,1200.0,720,480.0
+RT-0459,2025-04-28,North,Office Supplies,Folders,2,150.0,300.0,130,170.0
+RT-0460,2025-06-20,Central,Electronics,Headphones,10,1800.0,18000.0,11500,6500.0
+RT-0461,2025-09-15,South,Home & Kitchen,Water Bottle,5,405.0,2025.0,1200,825.0
+RT-0462,2025-11-10,Central,Electronics,Keyboard,6,1200.0,7200.0,4320,2880.0
+RT-0463,2025-10-25,Central,Home & Kitchen,Mug Set,8,550.0,4400.0,2400,2000.0
+RT-0464,2025-05-22,South,Office Supplies,Folders,6,135.0,810.0,390,420.0
+RT-0465,2025-05-29,East,Home & Kitchen,Storage Box,4,630.0,2520.0,1640,880.0
+RT-0466,2025-07-01,East,Furniture,Lamp,4,1100.0,4400.0,2480,1920.0
+RT-0467,2025-01-06,Central,Electronics,Headphones,10,1710.0,17100.0,11500,5600.0
+RT-0468,2025-10-24,North,Home & Kitchen,Water Bottle,4,450.0,1800.0,960,840.0
+RT-0469,2025-08-30,West,Home & Kitchen,Kitchen Scale,1,1300.0,1300.0,820,480.0
+RT-0470,2025-04-09,North,Furniture,Lamp,1,990.0,990.0,620,370.0
+RT-0471,2025-04-25,North,Home & Kitchen,Storage Box,1,700.0,700.0,410,290.0
+RT-0472,2025-04-21,East,Home & Kitchen,Kitchen Scale,2,1235.0,2470.0,1640,830.0
+RT-0473,2025-02-06,South,Office Supplies,Pen Set,11,162.0,1782.0,880,902.0
+RT-0474,2025-10-22,West,Home & Kitchen,Kitchen Scale,9,1300.0,11700.0,7380,4320.0
+RT-0475,2025-04-13,Central,Home & Kitchen,Mug Set,1,550.0,550.0,300,250.0
+RT-0476,2025-03-17,West,Office Supplies,Notebook Pack,7,237.5,1662.5,910,752.5
+RT-0477,2025-07-21,North,Furniture,Office Chair,4,6200.0,24800.0,18000,6800.0
+RT-0478,2025-04-21,North,Office Supplies,Folders,6,150.0,900.0,390,510.0
+RT-0479,2025-11-21,East,Furniture,Office Chair,4,6200.0,24800.0,18000,6800.0
+RT-0480,2025-06-26,North,Home & Kitchen,Kitchen Scale,7,1235.0,8645.0,5740,2905.0
+RT-0481,2025-10-11,Central,Office Supplies,Stapler,4,220.0,880.0,480,400.0
+RT-0482,2025-07-08,Central,Furniture,Office Chair,4,6200.0,24800.0,18000,6800.0
+RT-0483,2025-02-06,Central,Office Supplies,Folders,3,150.0,450.0,195,255.0
+RT-0484,2025-03-21,East,Office Supplies,Notebook Pack,6,250.0,1500.0,780,720.0
+RT-0485,2025-10-04,North,Furniture,Office Chair,2,6200.0,12400.0,9000,3400.0
+RT-0486,2025-11-27,North,Electronics,Monitor,2,9025.0,18050.0,15200,2850.0
+RT-0487,2025-05-22,Central,Office Supplies,Folders,9,142.5,1282.5,585,697.5
+RT-0488,2025-05-31,Central,Electronics,Headphones,9,1710.0,15390.0,10350,5040.0
+RT-0489,2025-07-14,Central,Furniture,Bookshelf,8,3990.0,31920.0,23200,8720.0
+RT-0490,2025-08-26,South,Furniture,Office Chair,12,5580.0,66960.0,54000,12960.0
+RT-0491,2025-07-28,North,Home & Kitchen,Water Bottle,2,450.0,900.0,480,420.0
+RT-0492,2025-06-20,South,Electronics,Wireless Mouse,10,650.0,6500.0,3800,2700.0
+RT-0493,2025-02-17,South,Home & Kitchen,Mug Set,11,550.0,6050.0,3300,2750.0
+RT-0494,2025-04-14,East,Office Supplies,Printer Paper,10,320.0,3200.0,2100,1100.0
+RT-0495,2025-12-11,South,Electronics,Keyboard,1,1200.0,1200.0,720,480.0
+RT-0496,2025-11-01,Central,Office Supplies,Stapler,12,209.0,2508.0,1440,1068.0
+RT-0497,2025-07-18,West,Home & Kitchen,Mug Set,1,550.0,550.0,300,250.0
+RT-0498,2025-11-05,Central,Electronics,Headphones,9,1710.0,15390.0,10350,5040.0
+RT-0499,2025-06-27,East,Electronics,Headphones,1,1800.0,1800.0,1150,650.0
+RT-0500,2025-12-27,South,Furniture,Bookshelf,4,3780.0,15120.0,11600,3520.0
