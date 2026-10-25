@@ -1,77 +1,51 @@
-# Retail Sales Analysis — Excel Dashboard
+# Retail Sales Analysis | Microsoft Excel Dashboard
 
-An Excel portfolio project focused on retail sales performance, profitability, product rankings, and regional analysis.
+An interactive Excel reporting project designed to summarize retail sales, profitability, and product performance in a business-friendly dashboard.
 
-## Project overview
+## Project Objective
+Build a practical reporting view that helps a stakeholder monitor core sales KPIs and compare performance across regions, categories, products, and time.
 
-This project uses a 500-row retail sales dataset to explore sales and profit through Excel formulas, PivotTables, PivotCharts, and slicers.
-
-## Analyses included
-
-- Executive KPI cards: Total Sales, Total Profit, and Profit Margin
-- Regional Sales and Profit comparison
-- Monthly Sales and Profit trend
+## Dashboard Highlights
+- Total Sales, Total Profit, and Profit Margin KPIs
+- Regional sales and profit comparisons
+- Monthly sales and profit trends
 - Category-level performance
-- Top 5 products by Sales
-- Top 5 products by Profit
-- Region slicer for interactive analysis
-- Business findings based on the analysis
+- Top products by sales and profit
+- Region slicer for interactive filtering
 
-## Tools and techniques
-
+## Tools & Techniques
 - Microsoft Excel
-- Excel Tables and structured references
-- Formulas: SUM, IFERROR, GETPIVOTDATA
+- Excel Tables and formulas
 - PivotTables and PivotCharts
-- Slicers and interactive KPI reporting
-- Currency and percentage formatting
+- Slicers and KPI reporting
+- Number, currency, and percentage formatting
 
 ## Dataset
+The project README describes a 500-record, 10-column practice dataset. It is synthetic and intended for learning and portfolio demonstration, not actual company reporting.
 
-The dataset contains 500 records and 10 columns:
+Fields include order ID/date, region, category, product, quantity, unit price, sales, cost, and profit.
 
-- Order ID
-- Order Date
-- Region
-- Category
-- Product
-- Quantity
-- Unit Price
-- Sales
-- Cost
-- Profit
+## Core Calculations
+- **Sales** = Quantity × Unit Price
+- **Profit** = Sales − Cost
+- **Profit Margin** = Total Profit ÷ Total Sales
 
-The dataset is synthetic and intended for learning and portfolio practice. It is not real company data.
+## How to Use
+1. Download the workbook and dataset if they are included in this repository.
+2. Open the workbook in Microsoft Excel.
+3. Use the Region slicer to explore changes in charts and KPI values.
+4. Refresh PivotTables after replacing or updating source data.
 
-## Core calculations
+## Business Questions
+- Which regions contribute the most sales and profit?
+- How does performance change month to month?
+- Which categories and products stand out?
+- How does profit margin compare with sales volume?
 
-- Sales = Quantity × Unit Price
-- Profit = Sales − Cost
-- Profit Margin = Total Profit ÷ Total Sales
+## Skills Demonstrated
+Excel reporting · KPI design · PivotTables · PivotCharts · Interactive filtering · Business analysis
 
-## Files
+**Note:** The README describes intended deliverables; verify the workbook and dataset files in the repository before using this project as a live demo.
 
-Upload these deliverables to the repository:
-- `Retail_Sales_Analysis.xlsx` — final workbook with dashboard, PivotTables, charts, and slicers
-- `Retail_Sales_Analysis_Dataset.csv` — source dataset
-- `screenshots/dashboard.png` — optional dashboard preview
-
-## How to use
-
-1. Download and open the workbook in Microsoft Excel.
-2. Use the Region slicer to filter regional charts and KPI values.
-3. Review the monthly, category, and product analyses.
-4. If you add or replace source data, refresh the PivotTables and confirm the slicer connections.
-
-## Business questions
-
-- Which region produces the highest Sales and Profit?
-- How do Sales and Profit vary month by month?
-- Which categories perform best?
-- Do top products by Sales also rank among the top products by Profit?
-- How does the selected region affect overall Sales, Profit, and Profit Margin?
-
-## Author
-
-**Omkar S. Kshirsagar**  
-GitHub: [@osk25-xc](https://github.com/osk25-xc)
+---
+Created by **Omkar S. Kshirsagar** | [GitHub Profile](https://github.com/osk25-xc)
