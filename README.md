@@ -1,51 +1,51 @@
-# Retail Sales Analysis | Microsoft Excel Dashboard
+# Retail Sales Analysis | Microsoft Excel
 
-An interactive Excel reporting project designed to summarize retail sales, profitability, and product performance in a business-friendly dashboard.
+An Excel portfolio project for analyzing retail sales, profitability, and operational performance through spreadsheet reporting.
 
-## Project Objective
-Build a practical reporting view that helps a stakeholder monitor core sales KPIs and compare performance across regions, categories, products, and time.
+## Project objective
 
-## Dashboard Highlights
-- Total Sales, Total Profit, and Profit Margin KPIs
-- Regional sales and profit comparisons
-- Monthly sales and profit trends
-- Category-level performance
-- Top products by sales and profit
-- Region slicer for interactive filtering
+Build a clear reporting view of sales performance and help compare results across regions, categories, products, and time.
 
-## Tools & Techniques
-- Microsoft Excel
-- Excel Tables and formulas
-- PivotTables and PivotCharts
-- Slicers and KPI reporting
-- Number, currency, and percentage formatting
+## Intended reporting areas
+
+- Total sales and total profit
+- Profit margin
+- Order and delivery measures, where present in the dataset
+- Regional and category comparisons
+- Monthly trends
+- Interactive filtering with PivotTable slicers, where implemented
+
+## Tools and techniques
+
+Microsoft Excel · Excel Tables · Formulas · PivotTables · PivotCharts · Slicers
 
 ## Dataset
-The project README describes a 500-record, 10-column practice dataset. It is synthetic and intended for learning and portfolio demonstration, not actual company reporting.
 
-Fields include order ID/date, region, category, product, quantity, unit price, sales, cost, and profit.
+Check the repository for the current workbook and source dataset. The project dataset is intended for practice; confirm the exact row count, columns, and source before quoting them.
 
-## Core Calculations
-- **Sales** = Quantity × Unit Price
-- **Profit** = Sales − Cost
-- **Profit Margin** = Total Profit ÷ Total Sales
+## KPI definitions
 
-## How to Use
-1. Download the workbook and dataset if they are included in this repository.
+- **Sales:** Use the sales field or the documented quantity × unit-price rule.
+- **Profit:** Sales minus cost, where that is the source-data definition.
+- **Profit Margin:** Total Profit ÷ Total Sales.
+- **Order Count:** Distinct count of order IDs, not line-item rows.
+
+Calculate profit margin from filtered aggregate totals rather than averaging row-level percentages.
+
+## How to use
+
+1. Download the workbook and source data from this repository.
 2. Open the workbook in Microsoft Excel.
-3. Use the Region slicer to explore changes in charts and KPI values.
-4. Refresh PivotTables after replacing or updating source data.
+3. Refresh PivotTables after changing the source.
+4. Test slicers and verify that all relevant KPI cards and charts respond.
+5. Reconcile the report totals to the source data.
 
-## Business Questions
-- Which regions contribute the most sales and profit?
-- How does performance change month to month?
-- Which categories and products stand out?
-- How does profit margin compare with sales volume?
+## Validation checklist
 
-## Skills Demonstrated
-Excel reporting · KPI design · PivotTables · PivotCharts · Interactive filtering · Business analysis
+Confirm formulas, date types, duplicate order handling, and totals by region/category. Add screenshots and final insights only after testing the current workbook.
 
-**Note:** The README describes intended deliverables; verify the workbook and dataset files in the repository before using this project as a live demo.
+## Skills demonstrated
 
----
-Created by **Omkar S. Kshirsagar** | [GitHub Profile](https://github.com/osk25-xc)
+Excel formulas · PivotTables · PivotCharts · KPI reporting · Data validation · Business analysis
+
+Maintained by [Omkar S. Kshirsagar](https://github.com/osk25-xc).
